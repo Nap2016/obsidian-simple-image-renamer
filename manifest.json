@@ -2,7 +2,6 @@
   "id": "simple-image-renamer",
   "name": "Simple Image Renamer",
   "author": "Nap",
-  "version": "1.0.0",
   "description": "Renames linked images and updates links in the current note",
   "repo": "https://github.com/Nap2016/simple-image-renamer"
 }
