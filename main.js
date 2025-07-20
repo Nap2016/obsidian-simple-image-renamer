@@ -4,7 +4,7 @@ const { Plugin, MarkdownView, Notice } = require("obsidian");
 module.exports = class RenameImagesPlugin extends Plugin {
   async onload() {
     this.addCommand({
-      id: "rename-linked-images-pathwise",
+      id: "simple-image-renamer",
       name: "Rename",
       checkCallback: (checking) => {
         const mdView = this.app.workspace.getActiveViewOfType(MarkdownView);
