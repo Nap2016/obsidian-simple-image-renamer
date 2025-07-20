@@ -1,6 +1,9 @@
 {
   "id": "simple-image-renamer",
   "name": "Simple Image Renamer",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "isDesktopOnly": false,
   "author": "Nap",
   "description": "Renames linked images and updates links in the current note",
   "repo": "Nap2016/simple-image-renamer"
