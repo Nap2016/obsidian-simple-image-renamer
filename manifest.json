@@ -6,5 +6,5 @@
   "isDesktopOnly": false,
   "author": "Nap",
   "description": "Renames linked images and updates links in the current note",
-  "repo": "Nap2016/simple-image-renamer"
+  "repo": "Nap2016/obsidian-simple-image-renamer"
 }
